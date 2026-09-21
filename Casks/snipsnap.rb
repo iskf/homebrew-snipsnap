@@ -1,6 +1,6 @@
 cask "snipsnap" do
-  version "1.0.2"
-  sha256 "0ad0d2c3bbc5ebc7ca5c4f905a0bb6acf8bcdfe8b40f4441b190ef7e3f62e02a"
+  version "1.1.0"
+  sha256 "d2094518a87c3df693b02bf8ba4ef99a99e72e4fb266361395fc6042a90bcb82"
 
   url "https://github.com/iskf/SnipSnap/releases/download/v#{version}/SnipSnap-#{version}.dmg"
   name "SnipSnap"
